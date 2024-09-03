@@ -1,5 +1,5 @@
 #include <Adafruit_NeoPixel.h>
-Adafruit_NeoPixel pixels(128, 6, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel pixels(27, 6, NEO_GRB + NEO_KHZ800);
 
 unsigned char cinco[5];
 
